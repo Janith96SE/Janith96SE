@@ -1,8 +1,11 @@
 ## Hi I'm Janith 👋
 
+ <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=16&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+GitHub+profile!%F0%9F%91%8B;Aspiring+Software+Developer+with+a+background+in+operations;Passionate+about+Full-Stack+Development;" alt="Headline" />
+    </div>
+
 <!--
 **Janith96SE/Janith96SE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 
 -->
